@@ -12,4 +12,9 @@
 
 ![image](https://github.com/user-attachments/assets/e6ba3a74-4c09-4ddb-a6bd-3d06366453f1)
 
+## Mapa SLAM LE1
+
+![Imagem do WhatsApp de 2024-09-16 à(s) 22 43 33_438b24ee](https://github.com/user-attachments/assets/2c62a7ff-f5c8-474e-8178-b78717a2bbd7)
+
+
 
